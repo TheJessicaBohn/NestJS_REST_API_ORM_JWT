@@ -4,7 +4,7 @@
 - Nest funciona em 127.0.0.1:3000
 
 ## Ferramentas:
-- [NestJS:](https://docs.nestjs.com/) ```npm i -g @nestjs/cli ```
+- [NestJS:](https://docs.nestjs.com/) ```nest new conceitos_nest --skip-git ``` esse **skip git** é essencial ou você não vai conseguir commitar o seu repositório;
 - [Node](https://nodejs.org/pt)
 - [VSCode](https://code.visualstudio.com/download)
 

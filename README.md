@@ -11,6 +11,7 @@
 ## Comandos:
 - ```nest --version```: Vesão instalada do Nest;
 - ```nest new project-name ```: Criar um projeto em Nest;
+- ```nest generate module conceitos-automatico ``` gera novo modulo pelo Nest CLI;
 
 ## Fontes:
 - https://www.udemy.com/course/nestjs-curso-completo-rest-api-typeorm-jwt-e-mais

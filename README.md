@@ -1,5 +1,4 @@
-# NestJS_REST_API_ORM_JWT
-NestJS para REST API com TypeORM, Autenticação JWT e Testes
+# NestJS para REST API com TypeORM, Autenticação JWT e Testes
 
 
 ## Ferramentas: 
